@@ -1,1 +1,1 @@
-# Health-Screening-Automation
+# Automated Covid-19 screening form for university using Selenium
